@@ -70,3 +70,8 @@ python3 floaw.py clip1.mp4 clip2.mp4 clip3.mp4 -o merged.mp4 --overwrite
 python3 floaw.py --help
 ```
 
+
+## Deploy note (Vercel)
+
+This project is a **CLI tool**, not a server-rendered web application. A basic landing page is included at `public/index.html` with `vercel.json` rewrites so Vercel deployments do not return a 404.
+
