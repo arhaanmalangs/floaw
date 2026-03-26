@@ -15,7 +15,7 @@ This tool offers a broad set of day-to-day editing features:
 - Export to MP4/MOV/MKV/WEBM (any FFmpeg-supported format)
 
 No watermark is ever added by this software.
-"""
+"""faf
 
 from __future__ import annotations
 
