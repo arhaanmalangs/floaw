@@ -12,7 +12,7 @@ This tool offers a broad set of day-to-day editing features:
 - Fade in/out (video and audio)
 - Audio replacement, mute, and volume controls
 - Frame-rate and codec/quality controls
-- Export to MP4/MOV/MKV/WEBM (any FFmpeg-supported format)
+- Export to MP4/MOV/MKV/WEBM (any FFmpeg-supported format)dsa
 
 No watermark is ever added by this software.
 """
