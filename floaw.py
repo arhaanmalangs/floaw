@@ -9,7 +9,7 @@ This tool offers a broad set of day-to-day editing features:
 - Brightness / contrast / saturation
 - Blur / sharpen / grayscale
 - Text and image overlays
-- Fade in/out (video and audiofsdfs
+- Fade in/out (video and audio)
 - Audio replacement, mute, and volume controls
 - Frame-rate and codec/quality controls
 - Export to MP4/MOV/MKV/WEBM (any FFmpeg-supported format)
