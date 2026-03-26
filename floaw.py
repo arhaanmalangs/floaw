@@ -418,7 +418,7 @@ def run(cfg: EditConfig) -> int:
         subprocess.run(cmd, check=True)
     except subprocess.CalledProcessError as exc:
         print(f"FFmpeg failed with exit code {exc.returncode}", file=sys.stderr)
-        return exc.returncodefff
+        return exc.returncode
     return 0
 
 
@@ -439,4 +439,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-fff
