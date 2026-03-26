@@ -405,7 +405,7 @@ def run(cfg: EditConfig) -> int:
         "-movflags",
         "+faststart",
     ]
-
+fsf
     if cfg.threads:
         cmd += ["-threads", str(cfg.threads)]
 
